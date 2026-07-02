@@ -47,5 +47,18 @@
         "seats_available": 113
       }
     ]
+  },
+  "0011-46120": {
+    "last_checked": "2026-07-02T18:34:34.412024",
+    "seats_available": 298,
+    "is_sold_out": false,
+    "title": "Backrooms",
+    "show_time": "2026-07-03T19:50:00.000Z",
+    "history": [
+      {
+        "checked_at": "2026-07-02T18:34:34.412024",
+        "seats_available": 298
+      }
+    ]
   }
 }
