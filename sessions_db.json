@@ -1,7 +1,7 @@
 {
   "0011-46088": {
-    "last_checked": "2026-07-02T02:18:53.707162",
-    "seats_available": 117,
+    "last_checked": "2026-07-02T06:31:28.810820",
+    "seats_available": 119,
     "is_sold_out": false,
     "title": "Backrooms",
     "show_time": "2026-07-02T19:50:00.000Z",
@@ -9,6 +9,10 @@
       {
         "checked_at": "2026-07-02T02:18:53.707162",
         "seats_available": 117
+      },
+      {
+        "checked_at": "2026-07-02T06:31:28.810820",
+        "seats_available": 119
       }
     ]
   }
