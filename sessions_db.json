@@ -49,7 +49,7 @@
     ]
   },
   "0011-46120": {
-    "last_checked": "2026-07-03T02:13:12.502688",
+    "last_checked": "2026-07-03T06:21:53.786853",
     "seats_available": 115,
     "is_sold_out": false,
     "title": "Backrooms",
@@ -77,6 +77,10 @@
       },
       {
         "checked_at": "2026-07-03T02:13:12.502688",
+        "seats_available": 115
+      },
+      {
+        "checked_at": "2026-07-03T06:21:53.786853",
         "seats_available": 115
       }
     ]
